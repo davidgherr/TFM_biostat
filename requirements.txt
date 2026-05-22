@@ -1,0 +1,15 @@
+calzone==1.2.0
+calzone_tool==0.1.0
+imbalanced_learn==0.14.0
+joblib==1.5.2
+matplotlib==3.10.9
+numpy==2.4.6
+optuna==4.8.0
+pandas==3.0.3
+PyALE==1.2.0
+scikit_learn==1.8.0
+scipy==1.17.1
+seaborn==0.13.2
+shap==0.51.0
+statsmodels==0.14.6
+tqdm==4.67.1
